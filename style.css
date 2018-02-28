@@ -1,3 +1,14 @@
 body{ 
     background-color:#777;
 }
+
+p{
+    background-color: #ebebeb;
+    width: 920px;
+    font-family: 'Arial','Helvetica Neue',Arial, Helvetica, sans-serif;
+    font-size:18px;
+    height: 50px;
+    padding: 20px;
+    margin: 8px 10px 40px 60px;
+    text-align: center;
+}
