@@ -42,11 +42,11 @@ p {
 .aside {
     position: relative ;
     background-color: #ebebeb;
-    width: 320px;
+    width: 330px;
     height: 150px;
-    padding: 15px 30px 100px 20px;
+    padding: 15px 50px 100px 22px;
     float: right;
-    margin: 0px 315px 0px 5px;
+    margin: 0px 240px 0px 5px;
     display: inline-block;
     
 }
